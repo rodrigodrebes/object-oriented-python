@@ -1,0 +1,3 @@
+Desacoplamento entre a classe de nível inferior e superior;
+
+Criação de uma interface para implementação de módulos de baixo nível;
